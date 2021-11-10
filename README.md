@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Andrés Gonzalez Arias</h1>
 <h3 align="center">An enthusiast of computer science, software development and Cyber security.</h3>
 
-- 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript MySQL**
+- 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript and MySQL**
 
 - 📫 How to reach me **juangonzarias@gmail.com**
 
